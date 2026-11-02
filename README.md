@@ -4,10 +4,15 @@ AcadEase is a Java-based Student Academic Record Management System developed usi
 It is a console-based application that helps manage student details, subject information, marks, and academic performance records.
 
 Technologies Used
+
 Programming Language: Java
+
 Database: MySQL
+
 Database Connectivity: JDBC
+
 IDE: Eclipse
+
 Concepts: Object-Oriented Programming (OOP), DBMS
 
 Features
